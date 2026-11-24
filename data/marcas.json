@@ -1,0 +1,1073 @@
+{
+ "generado": "2026-10-08",
+ "emisores": {
+  "aa2000": {
+   "logo": "data/marcas/aa2000-logo.svg",
+   "logo_fuente": "https://www.aa2000.com.ar/assets/logos/aeropuertos-logo-vertical.svg",
+   "foto": {
+    "src": "data/marcas/aa2000-foto.jpg",
+    "archivo": "Aeropuerto Ezeiza 8.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Terminal C",
+    "autor": "Gastón Cuello",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Aeropuerto_Ezeiza_8.jpg"
+   }
+  },
+  "aes": {
+   "logo": "data/marcas/aes-logo.svg",
+   "logo_fuente": "https://www1.aesargentina.com.ar/themes/custom/aes_custom/logo/logo_aes_argentina.svg",
+   "foto": {
+    "src": "data/marcas/aes-foto.jpg",
+    "archivo": "Alicura234.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Represa de Alicurá, sobre el río Limay, Argentina",
+    "autor": "Claudio Elias",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alicura234.JPG"
+   }
+  },
+  "aluar": {
+   "logo": "data/marcas/aluar-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Logo_Aluar.svg",
+   "foto": {
+    "src": "data/marcas/aluar-foto.jpg",
+    "archivo": "Planta Aluar, Madryn 2.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Aluar, Puerto Madryn",
+    "autor": "Gastón Cuello",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Planta_Aluar,_Madryn_2.JPG"
+   }
+  },
+  "arcor": {
+   "logo": "data/marcas/arcor-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Grupo_arcor_logo.svg",
+   "foto": {
+    "src": "data/marcas/arcor-foto.jpg",
+    "archivo": "Fábrica Arcor en Arroyito, Córdoba.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Fachada de la fábrica Arcor en Arroyito, Córdoba",
+    "autor": "MartinaVlachNINCH",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_Arcor_en_Arroyito,_C%C3%B3rdoba.jpg"
+   }
+  },
+  "bancor": {
+   "logo": "data/marcas/bancor-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Banco_cordoba_logo.png",
+   "foto": {
+    "src": "data/marcas/bancor-foto.jpg",
+    "archivo": "Banco de la Prov. de Córdoba1-Alfredo Fernández.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Casa matriz de Bancor, ciudad de Córdoba",
+    "autor": "Wikitroles",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Banco_de_la_Prov._de_C%C3%B3rdoba1-Alfredo_Fern%C3%A1ndez.JPG",
+    "pos": "50% 35%"
+   }
+  },
+  "bst": {
+   "logo": "data/marcas/bst-logo.svg",
+   "logo_fuente": "https://www.bst.com.ar/wp-content/themes/bst/assets/images/logo-bst-blanco.svg",
+   "fondo": "oscuro"
+  },
+  "credicuotas": {
+   "logo": "data/marcas/credicuotas-logo.svg",
+   "logo_fuente": "https://www.credicuotas.com.ar/static/media/logo_credicuotas_desktop.4929756302dcc5dd537f72d073227458.svg"
+  },
+  "dock-sud": {
+   "foto": {
+    "src": "data/marcas/dock-sud-foto.jpg",
+    "archivo": "Buenos Aires, Rio Dock Sud - aerial (32923979501) - 2017.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Dock Sud, Avellaneda",
+    "autor": "Thomas Woodtli from Zürich, Switzerland",
+    "licencia": "CC BY-SA 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Buenos_Aires,_Rio_Dock_Sud_-_aerial_(32923979501)_-_2017.jpg"
+   }
+  },
+  "fiplasto": {
+   "logo": "data/marcas/fiplasto-logo.png",
+   "logo_fuente": "https://fiplasto.com.ar/wp-content/themes/personalizado/assets/imgs/logo.png",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/fiplasto-foto.jpg",
+    "archivo": "Atardecer-ramallo2024.jpg",
+    "w": 1280,
+    "h": 533,
+    "desc": "Ramallo (Buenos Aires), donde está su planta",
+    "autor": "Batista1088",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Atardecer-ramallo2024.jpg",
+    "pos": "50% 60%"
+   }
+  },
+  "grupo-st": {
+   "logo": "data/marcas/grupo-st-logo.svg",
+   "logo_fuente": "https://www.grupost.com.ar/wp-content/themes/gst/assets/images/logo_GST.svg"
+  },
+  "hipotecario": {
+   "logo": "data/marcas/hipotecario-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Logo_Banco_Hipotecario.svg",
+   "foto": {
+    "src": "data/marcas/hipotecario-foto.jpg",
+    "archivo": "Banco Hipotecario S.A. (ex Banco de Londres) 12.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Sede del Banco Hipotecario, Buenos Aires",
+    "autor": "Martín A. Aurand",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Banco_Hipotecario_S.A._(ex_Banco_de_Londres)_12.jpg",
+    "pos": "50% 45%"
+   }
+  },
+  "ieb": {
+   "logo": "data/marcas/ieb-logo.png",
+   "logo_fuente": "https://www.iebc.com.ar/landing/iebc_logo.png",
+   "foto": {
+    "src": "data/marcas/ieb-foto.jpg",
+    "archivo": "Las Heras, línea H 09.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Estación Las Heras, obra de Dycasa (hoy IEB)",
+    "autor": "Gastón Cuello",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Las_Heras,_l%C3%ADnea_H_09.jpg",
+    "pos": "50% 50%"
+   }
+  },
+  "promedon": {
+   "logo": "data/marcas/promedon-logo.svg",
+   "logo_fuente": "https://www.promedon.com/ar/wp-content/uploads/sites/2/2022/07/promedon_blanco.svg",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/promedon-foto.jpg",
+    "archivo": "Vista de la ciudad desde el Estadio Julio César Villagra -bc.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Ciudad de Córdoba, sede de Promedon",
+    "autor": "Enero en la ciudad",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vista_de_la_ciudad_desde_el_Estadio_Julio_C%C3%A9sar_Villagra_-bc.jpg",
+    "pos": "50% 55%"
+   }
+  },
+  "salvador-munoz": {
+   "foto": {
+    "src": "data/marcas/salvador-munoz-foto.jpg",
+    "archivo": "Villa San Lorenzo en la Provincia de Salta.jpg",
+    "w": 1400,
+    "h": 584,
+    "desc": "Villa San Lorenzo (Salta), sede de la empresa",
+    "autor": "Lourdes Radrizzani",
+    "licencia": "CC BY 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Villa_San_Lorenzo_en_la_Provincia_de_Salta.jpg",
+    "pos": "50% 55%"
+   }
+  },
+  "bbva": {
+   "logo": "data/marcas/bbva-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:BBVA_2019.svg",
+   "foto": {
+    "src": "data/marcas/bbva-foto.jpg",
+    "archivo": "Torre BBVA puerto madero.jpg",
+    "w": 1280,
+    "h": 533,
+    "desc": "Torre BBVA ubicada en Córdoba y madero",
+    "autor": "Forbante",
+    "licencia": "CC0",
+    "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_BBVA_puerto_madero.jpg",
+    "pos": "50% 30%"
+   }
+  },
+  "caba": {
+   "logo": "data/marcas/caba-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Ciudad_de_Buenos_Aires.svg",
+   "foto": {
+    "src": "data/marcas/caba-foto.jpg",
+    "archivo": "Obelisco de Buenos Aires at sunset.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Obelisco de Buenos Aires in Avenida 9 de julio",
+    "autor": "Dpalma01",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Obelisco_de_Buenos_Aires_at_sunset.jpg",
+    "pos": "50% 35%"
+   }
+  },
+  "camuzzi": {
+   "logo": "data/marcas/camuzzi-logo.svg",
+   "logo_fuente": "https://www.camuzzigas.com/wp-content/uploads/2022/12/camuzzi-logo-azul.svg"
+  },
+  "capex": {
+   "logo": "data/marcas/capex-logo.svg",
+   "logo_fuente": "https://capex.com.ar/wp-content/uploads/2023/11/logo-capex-blanco.svg",
+   "fondo": "oscuro"
+  },
+  "central-puerto": {
+   "logo": "data/marcas/central-puerto-logo.svg",
+   "logo_fuente": "https://www.centralpuerto.com/wp-content/themes/bootscore-main/bootscore-main/img/logo/logo-footer.svg",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/central-puerto-foto.jpg",
+    "archivo": "Buenos Aires - Puerto (norte).jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Puerto de Buenos Aires, Argentina. Se ve parte de la Autopista Illia.",
+    "autor": "Beatrice Murch from Buenos Aires, Argentina",
+    "licencia": "CC BY 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Puerto_(norte).jpg"
+   }
+  },
+  "cgc": {
+   "logo": "data/marcas/cgc-logo.png",
+   "logo_fuente": "https://cgc.energy/spanish/wp-content/uploads/2022/10/cgclogo.png"
+  },
+  "clisa": {
+   "logo": "data/marcas/clisa-logo.png",
+   "logo_fuente": "https://www.clisa.com.ar/img/logo.png"
+  },
+  "cnh": {
+   "logo": "data/marcas/cnh-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:CNH_Capital.jpg",
+   "foto": {
+    "src": "data/marcas/cnh-foto.jpg",
+    "archivo": "TractorNewHollandTD5.110.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Tractor New Holland TD5.110 showed in La Rural 2016, Buenos Aires, Argentina",
+    "autor": "ezarate",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:TractorNewHollandTD5.110.jpg"
+   }
+  },
+  "comafi": {
+   "logo": "data/marcas/comafi-logo.svg",
+   "logo_fuente": "https://www.comafi.com.ar/assets/images/layout/logo-comafi.svg",
+   "foto": {
+    "src": "data/marcas/comafi-foto.jpg",
+    "archivo": "Ex Palacio Italia América.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Edificio de la Compañía de Navegación Italia-América, hoy sede del Banco Comafi",
+    "autor": "Elsapucai (photo) Francesco Gianotti (1881–1967, building)",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ex_Palacio_Italia_Am%C3%A9rica.JPG",
+    "pos": "50% 40%"
+   }
+  },
+  "cordoba": {
+   "logo": "data/marcas/cordoba-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Provincia_de_C%C3%B3rdoba.svg",
+   "foto": {
+    "src": "data/marcas/cordoba-foto.jpg",
+    "archivo": "Skyline of downtown Cordoba city, Argentina 2013-02-24.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Skyline of downtown Cordoba city , Argentina.",
+    "autor": "Pablo Gonzalez",
+    "licencia": "CC BY-SA 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Skyline_of_downtown_Cordoba_city,_Argentina_2013-02-24.jpg"
+   }
+  },
+  "cresud": {
+   "logo": "data/marcas/cresud-logo.png",
+   "logo_fuente": "https://www.cresud.com.ar/apple-touch-icon.png"
+  },
+  "crown-point": {
+   "logo": "data/marcas/crown-point-logo.png",
+   "logo_fuente": "http://crownpointenergy.com/wp-content/uploads/2021/01/CPEnergia-SA-Logo-2.png"
+  },
+  "edemsa": {
+   "logo": "data/marcas/edemsa-logo.png",
+   "logo_fuente": "https://edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png"
+  },
+  "edenor": {
+   "logo": "data/marcas/edenor-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Edenor-Logo.svg",
+   "foto": {
+    "src": "data/marcas/edenor-foto.jpg",
+    "archivo": "Edenor subestacion vicente lopez.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Edenor electrical substation in Vicente López",
+    "autor": "Fernando Martello",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edenor_subestacion_vicente_lopez.jpg"
+   }
+  },
+  "edesa": {
+   "logo": "data/marcas/edesa-logo.png",
+   "logo_fuente": "https://www.edesa.com.ar/wp-content/uploads/2023/11/cropped-favicon-EDESA512.png",
+   "foto": {
+    "src": "data/marcas/edesa-foto.jpg",
+    "archivo": "Vista de Salta (ciudad) mar 2021 02.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Vista de la ciudad de Salta, desde el Santuario de la Virgen. Argentina.",
+    "autor": "César Pérez",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vista_de_Salta_(ciudad)_mar_2021_02.jpg"
+   }
+  },
+  "energy-solar-360": {
+   "logo": "data/marcas/energy-solar-360-logo.png",
+   "logo_fuente": "https://static.wixstatic.com/media/f1f192_8ecb32b9d09c42bd90094025a65b1fd0~mv2.png"
+  },
+  "epec": {
+   "logo": "data/marcas/epec-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Epec_cba_logo.png",
+   "foto": {
+    "src": "data/marcas/epec-foto.jpg",
+    "archivo": "Epecfenteedificio.jpg",
+    "w": 1184,
+    "h": 493,
+    "desc": "Imagen ilustrativa del edificio",
+    "autor": "FlorenciaFerrer",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Epecfenteedificio.jpg"
+   }
+  },
+  "farmcity": {
+   "logo": "data/marcas/farmcity-logo.svg",
+   "logo_fuente": null,
+   "foto": {
+    "src": "data/marcas/farmcity-foto.jpg",
+    "archivo": "Farmacity local en saavedra ba.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Farmacity store in Saavedra, Av. Balbín and Plaza Este",
+    "autor": "Fernando Martello",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Farmacity_local_en_saavedra_ba.jpg",
+    "pos": "50% 35%"
+   }
+  },
+  "fyo": {
+   "logo": "data/marcas/fyo-logo.png",
+   "logo_fuente": "https://nuevo.fyo.com/wp-content/uploads/2025/10/fyo.png",
+   "foto": {
+    "src": "data/marcas/fyo-foto.jpg",
+    "archivo": "AFA Serodino.jpg",
+    "w": 1024,
+    "h": 427,
+    "desc": "Agricultores Federados Argentinos center at Serodino , Santa Fe, Argentina. Primary collection at the time of…",
+    "autor": "ARGENTVS",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:AFA_Serodino.jpg"
+   }
+  },
+  "galicia": {
+   "logo": "data/marcas/galicia-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Banco-Galicia_Logo_2024.png",
+   "foto": {
+    "src": "data/marcas/galicia-foto.jpg",
+    "archivo": "Banco Español del Río de la Plata.JPG",
+    "w": 758,
+    "h": 316,
+    "desc": "La sede del Banco Español del Río de la Plata en la ciudad de Buenos Aires, Argentina. Diseñada por Carlos Ag…",
+    "autor": "Editorial Pita y Catalano",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Banco_Espa%C3%B1ol_del_R%C3%ADo_de_la_Plata.JPG"
+   }
+  },
+  "gen-litoral": {
+   "logo": "data/marcas/gen-litoral-logo.png",
+   "logo_fuente": "https://albanesi.com.ar/imgs/logo_albanesi.png"
+  },
+  "genneia": {
+   "logo": "data/marcas/genneia-logo.png",
+   "logo_fuente": "https://www.genneia.com.ar/img/logo-simple-new-10.png",
+   "foto": {
+    "src": "data/marcas/genneia-foto.jpg",
+    "archivo": "Rawson Wind Farm 08.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Parque eólico Rawson, Chubut",
+    "autor": "Gastón Cuello",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rawson_Wind_Farm_08.JPG"
+   }
+  },
+  "gmsa": {
+   "logo": "data/marcas/gmsa-logo.png",
+   "logo_fuente": "https://albanesi.com.ar/imgs/logo_albanesi.png"
+  },
+  "havanna": {
+   "logo": "data/marcas/havanna-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Havanna_logo.png",
+   "foto": {
+    "src": "data/marcas/havanna-foto.jpg",
+    "archivo": "Fabrica havanna mardelplata.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "The Havanna factory on Avenida Peralta Ramos",
+    "autor": "Eva Luna",
+    "licencia": "CC BY-SA 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fabrica_havanna_mardelplata.jpg"
+   }
+  },
+  "icbc": {
+   "logo": "data/marcas/icbc-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:ICBC_China_logo.svg",
+   "foto": {
+    "src": "data/marcas/icbc-foto.jpg",
+    "archivo": "Torre madero icbc cropped.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Torre Madero",
+    "autor": "Deensel",
+    "licencia": "CC BY 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_madero_icbc_cropped.jpg",
+    "pos": "50% 35%"
+   }
+  },
+  "irsa": {
+   "logo": "data/marcas/irsa-logo.png",
+   "logo_fuente": "https://www.irsa.com.ar/wp-content/uploads/2025/08/IrsaLogoV2NEW.png",
+   "foto": {
+    "src": "data/marcas/irsa-foto.jpg",
+    "archivo": "Alto Palermo (Avenida Santa Fe).jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Vista del acceso al centro comercial Alto Palermo, Avenida Santa Fe y Coronel Díaz. La foto muestra la entrad…",
+    "autor": "Elsapucai",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Alto_Palermo_(Avenida_Santa_Fe).jpg"
+   }
+  },
+  "john-deere": {
+   "logo": "data/marcas/john-deere-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:John_Deere_text_only.png",
+   "foto": {
+    "src": "data/marcas/john-deere-foto.jpg",
+    "archivo": "Tractor John Deere 5045 D en Ruiz de Montoya, Provincia de Misiones (Argentina).jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Tractor John Deere 5045 D en Ruiz de Montoya, Misiones (Argentina). Fuente: Periodista: Horacio Cambeiro.",
+    "autor": "Horacio Cambeiro",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tractor_John_Deere_5045_D_en_Ruiz_de_Montoya,_Provincia_de_Misiones_(Argentina).jpg",
+    "pos": "50% 90%"
+   }
+  },
+  "juramento": {
+   "logo": "data/marcas/juramento-logo.png",
+   "logo_fuente": "https://juramento.com.ar/wp-content/uploads/juramento-logo_Filete-B-copy-1400x489.png"
+  },
+  "ledesma": {
+   "logo": "data/marcas/ledesma-logo.png",
+   "logo_fuente": "https://www.ledesma.com.ar/shared/logo-ledesma.webp",
+   "foto": {
+    "src": "data/marcas/ledesma-foto.jpg",
+    "archivo": "Ingenio Ledesma, Argentina - Locomotora sobre el puente del río Ledesma.jpg",
+    "w": 1038,
+    "h": 432,
+    "desc": "Ingenio Ledesma, Argentina - Locomotora sobre el puente del río Ledesma",
+    "autor": "Unknown photographer",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Ingenio_Ledesma,_Argentina_-_Locomotora_sobre_el_puente_del_r%C3%ADo_Ledesma.jpg"
+   }
+  },
+  "loma-negra": {
+   "logo": "data/marcas/loma-negra-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Lomanegra_company_logo.png"
+  },
+  "macro": {
+   "logo": "data/marcas/macro-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Banco_Macro_2025.png",
+   "foto": {
+    "src": "data/marcas/macro-foto.jpg",
+    "archivo": "Torre Macro.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Torre Macro, edificio de oficinas ubicado en Catalinas Norte, Buenos Aires.",
+    "autor": "Pulkele",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_Macro.jpg",
+    "pos": "50% 30%"
+   }
+  },
+  "mariva": {
+   "logo": "data/marcas/mariva-logo.png",
+   "logo_fuente": "https://www.mariva.com.ar/sites/default/files/banco.png",
+   "foto": {
+    "src": "data/marcas/mariva-foto.jpg",
+    "archivo": "Calle Reconquista desde Paraguay.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "La calle Reconquista, vista hacia el norte desde la esquina con la calle Paraguay. Al fondo, se aprecia la To…",
+    "autor": "Elsapucai",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Calle_Reconquista_desde_Paraguay.JPG"
+   }
+  },
+  "mastellone": {
+   "logo": "data/marcas/mastellone-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:La_Serenisima_logo.png",
+   "foto": {
+    "src": "data/marcas/mastellone-foto.jpg",
+    "archivo": "Mercedes-Benz Atego 1419 La Serenísima.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Mercedes-Benz Atego 1419 of La Serenísima in Caballito, Ciudad de Buenos Aires.",
+    "autor": "Just a Man",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Atego_1419_La_Seren%C3%ADsima.jpg"
+   }
+  },
+  "mega": {
+   "logo": "data/marcas/mega-logo.png",
+   "logo_fuente": "https://www.ciamega.com.ar/static/img/logo-blanco.png",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/mega-foto.jpg",
+    "archivo": "Polo petroquímico de Ing. White (01).jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Polo petroquímico de Ingeniero White, en Bahía Blanca",
+    "autor": "Juan Corral (Fotógrafo, Subdirección de Prensa y Contenidos…",
+    "licencia": "CC BY 2.5 ar",
+    "licencia_url": "https://creativecommons.org/licenses/by/2.5/ar/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Polo_petroqu%C3%ADmico_de_Ing._White_(01).jpg"
+   }
+  },
+  "mendoza": {
+   "logo": "data/marcas/mendoza-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_provincia_Mendoza_grande.svg",
+   "foto": {
+    "src": "data/marcas/mendoza-foto.jpg",
+    "archivo": "Aconcagua 13.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Aconcagua mountain, viewed from the entrance of Parque Provincial Aconcagua, Mendoza, Argentina",
+    "autor": "Mariordo Mario Roberto Duran Ortiz",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Aconcagua_13.JPG"
+   }
+  },
+  "minas-argentinas": {
+   "logo": "data/marcas/minas-argentinas-logo.png",
+   "logo_fuente": "https://minasargentinas.com/favicon.ico",
+   "foto": {
+    "src": "data/marcas/minas-argentinas-foto.jpg",
+    "archivo": "Gualcamayo - panoramio.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Gualcamayo",
+    "autor": "Antonio Gritta",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Gualcamayo_-_panoramio.jpg"
+   }
+  },
+  "minera-exar": {
+   "logo": "data/marcas/minera-exar-logo.png",
+   "logo_fuente": "https://www.exar.com.ar/wp-content/uploads/2024/04/exar_logo-blanco-768x135.png",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/minera-exar-foto.jpg",
+    "archivo": "Salar de Olaroz.jpg",
+    "w": 1280,
+    "h": 533,
+    "desc": "Salar de Olaroz - province de Jujuy, Argentine",
+    "autor": "Butterfly austral",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Salar_de_Olaroz.jpg"
+   }
+  },
+  "mirgor": {
+   "logo": "data/marcas/mirgor-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Mirgor_company_logo.png",
+   "foto": {
+    "src": "data/marcas/mirgor-foto.jpg",
+    "archivo": "Rio Grande Argentina.jpg",
+    "w": 500,
+    "h": 208,
+    "desc": "A view of Río Grande, Tierra del Fuego province, Argentina.",
+    "autor": "User Hugo.arg",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rio_Grande_Argentina.jpg"
+   }
+  },
+  "msu": {
+   "logo": "data/marcas/msu-logo.svg",
+   "logo_fuente": "https://msu.com.ar/assets/img/logo-msu.svg",
+   "foto": {
+    "src": "data/marcas/msu-foto.jpg",
+    "archivo": "Nodulación en Soja.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "En esta foto se pueden ver los nódulos en las raíces de un cultivo de Soja en la Pampa Argentina. El color ma…",
+    "autor": "Maggilautaro",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Nodulaci%C3%B3n_en_Soja.JPG"
+   }
+  },
+  "msu-energy": {
+   "logo": "data/marcas/msu-energy-logo.png",
+   "logo_fuente": "https://msuenergy.com/wp-content/themes/msuenergy/img/logo-msu-10-aniversario.png"
+  },
+  "msu-green": {
+   "logo": "data/marcas/msu-green-logo.svg",
+   "logo_fuente": "https://msugreenenergy.com/wp-content/uploads/2023/08/favicon.svg",
+   "foto": {
+    "src": "data/marcas/msu-green-foto.jpg",
+    "archivo": "Paneles-Solares-Cauchari-III.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Paneles solares instalados en Cauchari III",
+    "autor": "Manuel arequipa",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Paneles-Solares-Cauchari-III.jpg"
+   }
+  },
+  "naranja-x": {
+   "logo": "data/marcas/naranja-x-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Naranja_X.png",
+   "foto": {
+    "src": "data/marcas/naranja-x-foto.jpg",
+    "archivo": "Local de Tarjeta Naranja.jpg",
+    "w": 500,
+    "h": 208,
+    "desc": "Local de Tarjeta Naranja, en Córdoba, Argentina.",
+    "autor": "BlogNaranja",
+    "licencia": "CC BY-SA 2.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Local_de_Tarjeta_Naranja.jpg"
+   }
+  },
+  "neuquen": {
+   "logo": "data/marcas/neuquen-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Provincia_de_Neuqu%C3%A9n.svg",
+   "foto": {
+    "src": "data/marcas/neuquen-foto.jpg",
+    "archivo": "Lago Lácar en San Martin de los Andes Argentina.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Vista del Lago Lácar, desde Mirador Arrayán, en San Martin de los Andes Argentina",
+    "autor": "Marco Antonio Correa Flores",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lago_L%C3%A1car_en_San_Martin_de_los_Andes_Argentina.JPG"
+   }
+  },
+  "oldelval": {
+   "logo": "data/marcas/oldelval-logo.png",
+   "logo_fuente": "https://www.oldelval.com/wp-content/uploads/2020/05/isologo2.png"
+  },
+  "otamerica": {
+   "logo": "data/marcas/otamerica-logo.png",
+   "logo_fuente": "https://www.otamerica.com/wp-content/uploads/2026/01/logo-otamerica-150x38.png",
+   "foto": {
+    "src": "data/marcas/otamerica-foto.jpg",
+    "archivo": "Vista aérea del galpón de Puerto Rosales.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Vista aérea del galpón de Puerto Rosales (Foto: Maurucio Clermont)",
+    "autor": "AHMPA",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_galp%C3%B3n_de_Puerto_Rosales.jpg"
+   }
+  },
+  "pae": {
+   "logo": "data/marcas/pae-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Pan_American_Energy_logo.svg",
+   "foto": {
+    "src": "data/marcas/pae-foto.jpg",
+    "archivo": "Axion Energy Agro Zárate.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Axion Energy Agro Zárate, visto desde la ruta en Provincia de Buenos Aires, Argentina.",
+    "autor": "Horacio Cambeiro",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Axion_Energy_Agro_Z%C3%A1rate.jpg"
+   }
+  },
+  "pampa": {
+   "logo": "data/marcas/pampa-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Pampa_energia_arg_logo.svg"
+  },
+  "patagonia": {
+   "logo": "data/marcas/patagonia-logo.svg",
+   "logo_fuente": "https://bancopatagonia.com.ar/assets/images/layout/logo.svg",
+   "foto": {
+    "src": "data/marcas/patagonia-foto.jpg",
+    "archivo": "Torre Banco Patagonia.jpg",
+    "w": 720,
+    "h": 300,
+    "desc": "Edificio principal del Banco Patagonia",
+    "autor": "BPatagonia",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_Banco_Patagonia.jpg",
+    "pos": "50% 30%"
+   }
+  },
+  "pba": {
+   "logo": "data/marcas/pba-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Buenos_Aires_Province.svg",
+   "foto": {
+    "src": "data/marcas/pba-foto.jpg",
+    "archivo": "Casa de Gobierno de la Provincia de Buenos Aires-La Plata-1.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Casa de Gobierno de la Provincia de Buenos Aires , en La Plata , Argentina",
+    "autor": "Barcex",
+    "licencia": "CC BY-SA 2.5",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Casa_de_Gobierno_de_la_Provincia_de_Buenos_Aires-La_Plata-1.jpg"
+   }
+  },
+  "pcr": {
+   "logo": "data/marcas/pcr-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:PCRlogoColor(2821).jpg",
+   "foto": {
+    "src": "data/marcas/pcr-foto.jpg",
+    "archivo": "Petro en km8.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "la plamta cementera en km8",
+    "autor": "Gonce",
+    "licencia": "CC BY 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Petro_en_km8.JPG"
+   }
+  },
+  "pecom": {
+   "logo": "data/marcas/pecom-logo.svg",
+   "logo_fuente": "https://www.pecomenergia.com.ar/templates/g5_hydrogen/custom/images/pecom_color_logotipo.svg"
+  },
+  "petrosud": {
+   "foto": {
+    "src": "data/marcas/petrosud-foto.jpg",
+    "archivo": "Comodoro Rivadavia - primer pozo.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Es una foto del pozo de agua en Comodoro Rivadavia, en donde se descubrió petróleo el 13 de diciembre de 1907.",
+    "autor": "Unknown author Unknown author",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Comodoro_Rivadavia_-_primer_pozo.jpg"
+   }
+  },
+  "plaza-logistica": {
+   "logo": "data/marcas/plaza-logistica-logo.svg",
+   "logo_fuente": "https://plazalogistica.com.ar/wp-content/uploads/2025/12/plaza-logistica-logo-1.svg"
+  },
+  "pluspetrol": {
+   "logo": "data/marcas/pluspetrol-logo.png",
+   "logo_fuente": "https://www.pluspetrol.net/favicon.ico"
+  },
+  "profertil": {
+   "logo": "data/marcas/profertil-logo.png",
+   "logo_fuente": "https://www.profertil.com.ar/wp-content/uploads/2020/06/logo-profertil-05-1.png",
+   "foto": {
+    "src": "data/marcas/profertil-foto.jpg",
+    "archivo": "Polo petroquímico de Ing. White (13).jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Polo petroquímico de Ingeniero White, en Bahía Blanca",
+    "autor": "Juan Corral (Fotógrafo, Subdirección de Prensa y Contenidos…",
+    "licencia": "CC BY 2.5 ar",
+    "licencia_url": "https://creativecommons.org/licenses/by/2.5/ar/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Polo_petroqu%C3%ADmico_de_Ing._White_(13).jpg"
+   }
+  },
+  "raghsa": {
+   "logo": "data/marcas/raghsa-logo.png",
+   "logo_fuente": "https://www.raghsa.com/icon.png",
+   "foto": {
+    "src": "data/marcas/raghsa-foto.jpg",
+    "archivo": "Madero Center.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Edificio Madero Center",
+    "autor": "Cambalachero",
+    "licencia": "CC0",
+    "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Madero_Center.JPG"
+   }
+  },
+  "richmond": {
+   "logo": "data/marcas/richmond-logo.svg",
+   "logo_fuente": "https://richmondlab.com/img/laboratorios-richmond-logo.svg"
+  },
+  "rizobacter": {
+   "logo": "data/marcas/rizobacter-logo.png",
+   "logo_fuente": "https://rizobacter.com/themes/global/images/icons/menu/rizobacter-color.png",
+   "foto": {
+    "src": "data/marcas/rizobacter-foto.jpg",
+    "archivo": "Pergamino.jpg",
+    "w": 639,
+    "h": 266,
+    "desc": "Pergamino",
+    "autor": "Bikina88",
+    "licencia": "CC0",
+    "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Pergamino.jpg"
+   }
+  },
+  "salta": {
+   "logo": "data/marcas/salta-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Provincia_de_Salta.svg",
+   "foto": {
+    "src": "data/marcas/salta-foto.jpg",
+    "archivo": "Quebrada de las Conchas 04.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Quebrada de las Conchas, Argentina",
+    "autor": "Bernard Gagnon",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Conchas_04.jpg"
+   }
+  },
+  "san-juan": {
+   "logo": "data/marcas/san-juan-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Provincia_de_San_Juan.svg",
+   "foto": {
+    "src": "data/marcas/san-juan-foto.jpg",
+    "archivo": "A - Valle de la Luna, el hongo, San Juan, Argentina.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Ischigualasto or Moon Valley, mushroom formation, Province of San Juan, Argertina",
+    "autor": "M.Bustos",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:A_-_Valle_de_la_Luna,_el_hongo,_San_Juan,_Argentina.jpg"
+   }
+  },
+  "san-miguel": {
+   "logo": "data/marcas/san-miguel-logo.png",
+   "logo_fuente": "https://images.squarespace-cdn.com/content/v1/63eea45262584c3023fb22ed/ad4f4f34-d1b3-4446-bf6a-c001270509bf/summer+San+Miguel+Marca+Logo+Verde.png?format=1500w",
+   "foto": {
+    "src": "data/marcas/san-miguel-foto.jpg",
+    "archivo": "Lemon-argentina.gob.ar.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Tafi Viejo, Tucuman, Argentina - Lemon Factory",
+    "autor": "limon3.jpg",
+    "licencia": "CC0",
+    "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Lemon-argentina.gob.ar.jpg"
+   }
+  },
+  "santa-fe": {
+   "logo": "data/marcas/santa-fe-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Escudo_de_la_Provincia_de_Santa_Fe.svg",
+   "foto": {
+    "src": "data/marcas/santa-fe-foto.jpg",
+    "archivo": "Puente colgante Santa Fe 1 atardecer.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Puente colgante Santa Fe con la nueva iluminación (Mayo 2017)",
+    "autor": "TitiNicola",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Puente_colgante_Santa_Fe_1_atardecer.jpg"
+   }
+  },
+  "scania": {
+   "logo": "data/marcas/scania-logo.svg",
+   "logo_fuente": "https://www.scania.com/etc.clientlibs/scania-clientlibs/clientlibs/clientlib-site/resources/logotype/1.0.0/scania_wordmark/scania-wordmark-white.svg",
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/scania-foto.jpg",
+    "archivo": "Planta Scania Argentina.jpg",
+    "w": 500,
+    "h": 208,
+    "desc": "Fabrica de Scania en Tucuman, Argentina.",
+    "autor": "Scania Argentina",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Planta_Scania_Argentina.jpg"
+   }
+  },
+  "supervielle": {
+   "logo": "data/marcas/supervielle-logo.png",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Supervielle_logo14.png",
+   "foto": {
+    "src": "data/marcas/supervielle-foto.jpg",
+    "archivo": "Edificio Corporativo.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Ex sede del Banco Supervielle - hoy el centro cultural ArtHaus Central. Mitre 434, Buenos Aires, Argentina.",
+    "autor": "Young79",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Edificio_Corporativo.jpg",
+    "pos": "50% 75%"
+   }
+  },
+  "tango": {
+   "logo": "data/marcas/tango-logo.svg",
+   "logo_fuente": "https://www.tangoenergy.com/themes/custom/tango/logo.svg",
+   "foto": {
+    "src": "data/marcas/tango-foto.jpg",
+    "archivo": "Rotonda de ingreso a la ciudad de Catriel por ruta nacional 151 y provincial 6.jpg",
+    "w": 1024,
+    "h": 427,
+    "desc": "Welcome to Catriel city in Río Negro province, Argentina.",
+    "autor": "Arcibel",
+    "licencia": "CC BY-SA 3.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Rotonda_de_ingreso_a_la_ciudad_de_Catriel_por_ruta_nacional_151_y_provincial_6.jpg"
+   }
+  },
+  "tecpetrol": {
+   "foto": {
+    "src": "data/marcas/tecpetrol-foto.jpg",
+    "archivo": "Tecpetrol VacaMuerta.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "CPF de Tecpetrol en Vaca Muerta, Neuquen, Argentina",
+    "autor": "Sflexas",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Tecpetrol_VacaMuerta.jpg"
+   }
+  },
+  "telecom": {
+   "logo": "data/marcas/telecom-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Telecom_logo_2021.svg",
+   "foto": {
+    "src": "data/marcas/telecom-foto.jpg",
+    "archivo": "Torre Telecom.JPG",
+    "w": 1400,
+    "h": 583,
+    "desc": "Edificio Telecom desde Av. Moreau de Justo, Buenos Aires.",
+    "autor": "Elsapucai",
+    "licencia": "Public domain",
+    "licencia_url": "",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_Telecom.JPG"
+   }
+  },
+  "tgs": {
+   "logo": "data/marcas/tgs-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Logo_de_Transportadora_de_Gas_del_Sur.svg",
+   "foto": {
+    "src": "data/marcas/tgs-foto.jpg",
+    "archivo": "Planta de acondicionamiento de TGS en Tratayén, Neuquén.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Imagen de la planta de TGS",
+    "autor": "Scipadilla",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Planta_de_acondicionamiento_de_TGS_en_Tratay%C3%A9n,_Neuqu%C3%A9n.jpg"
+   }
+  },
+  "valores": {
+   "logo": "data/marcas/valores-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Isologo-valo-area-de-proteccion.svg"
+  },
+  "vista": {
+   "logo": "data/marcas/vista-logo.svg",
+   "logo_fuente": null,
+   "fondo": "oscuro",
+   "foto": {
+    "src": "data/marcas/vista-foto.jpg",
+    "archivo": "Fms Vaca Muerta Mulichinco Puerta Curaco.jpg",
+    "w": 1400,
+    "h": 584,
+    "desc": "Vaca Muerta and Mulichinco fms. (Upper Jurassic-Lower Cretaceous) at Puerta Curaco, Neuquen, Argentina.",
+    "autor": "Damián H. Zanette",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Fms_Vaca_Muerta_Mulichinco_Puerta_Curaco.jpg"
+   }
+  },
+  "ypf": {
+   "logo": "data/marcas/ypf-logo.svg",
+   "logo_fuente": "https://commons.wikimedia.org/wiki/File:Logo_de_YPF.svg",
+   "foto": {
+    "src": "data/marcas/ypf-foto.jpg",
+    "archivo": "Torre YPF, AA 2014.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Repsol-YPF Tower",
+    "autor": "Green Mostaza",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Torre_YPF,_AA_2014.jpg",
+    "pos": "50% 30%"
+   }
+  },
+  "ypf-luz": {
+   "logo": "data/marcas/ypf-luz-logo.png",
+   "logo_fuente": "https://ypfluz.com/Content/icon/ypfluzico64.ico",
+   "foto": {
+    "src": "data/marcas/ypf-luz-foto.jpg",
+    "archivo": "Parque Eólico Antonio Morán en 2003.jpg",
+    "w": 1400,
+    "h": 583,
+    "desc": "Parque Eólico Antonio Morán, Comodoro Rivadavia, Chubut, Patagonia, Argentina en 2003. Al fondo se ve un estr…",
+    "autor": "Gastón Cuello",
+    "licencia": "CC BY-SA 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "fuente": "https://commons.wikimedia.org/wiki/File:Parque_E%C3%B3lico_Antonio_Mor%C3%A1n_en_2003.jpg"
+   }
+  }
+ },
+ "extra_prefijos": {
+  "CLI": {
+   "id": "clisa",
+   "nombre": "Clisa"
+  },
+  "CLS": {
+   "id": "clisa",
+   "nombre": "Clisa"
+  },
+  "TSC": {
+   "id": "tgs",
+   "nombre": "TGS"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+  "generado": "2026-10-18",
+  "fuente": "Los ricos de Argentina (CEPA, con apoyo de la Fundación Friedrich Ebert) — losricosdeargentina.com.ar",
+  "base": "https://losricosdeargentina.com.ar/",
+  "familias": {
+    "bulgheroni": { "nombre": "Alejandro Bulgheroni, herederos de Carlos Bulgheroni y familia", "perfil": "bulgheroni2.html", "entramado": "bulgheroni.html" },
+    "blaquier":   { "nombre": "Carlos Blaquier y familia", "perfil": "blaquier2.html", "entramado": "blaquier.html" },
+    "braun":      { "nombre": "Federico Braun y familia", "perfil": "braun2.html", "entramado": "braun.html" },
+    "brito":      { "nombre": "Herederos de Jorge Horacio Brito y familia", "perfil": "brito2.html", "entramado": "brito.html" },
+    "caputo":     { "nombre": "Nicolás Caputo y familia", "perfil": "caputo2.html", "entramado": "caputo.html" },
+    "clarin":     { "nombre": "Herederos de Noble y Héctor Magnetto y familia (Grupo Clarín)", "perfil": "clarin2.html", "entramado": "clarin.html" },
+    "eurnekian":  { "nombre": "Eduardo Eurnekian y familia", "perfil": "eurnekian2.html", "entramado": "eurnekian.html" },
+    "madanes":    { "nombre": "Javier Madanes Quintanilla y familia", "perfil": "madanes2.html", "entramado": "madanes.html" },
+    "pagani":     { "nombre": "Luis Pagani y familia", "perfil": "pagani2.html", "entramado": "pagani.html" },
+    "rey":        { "nombre": "Edith Rodríguez de Rey y familia", "perfil": "rey2.html", "entramado": "rey.html" },
+    "rocca":      { "nombre": "Paolo Rocca y familia", "perfil": "rocca2.html", "entramado": "rocca.html" }
+  },
+  "emisores": {
+    "pae":           [{ "familia": "bulgheroni", "nota": "Bridas (50% Bulgheroni, 50% CNOOC) es dueña de la mitad de Pan American Energy Group; la otra mitad es de BP." }],
+    "ledesma":       [{ "familia": "blaquier",   "nota": "Ledesma es la cabeza del grupo de la familia Blaquier." }],
+    "galicia":       [{ "familia": "braun",      "nota": "EBA Holding (familias Escasany, Ayerza y Braun) controla el Grupo Financiero Galicia." }],
+    "naranja-x":     [{ "familia": "braun",      "nota": "Tarjeta Naranja depende de Tarjetas Regionales, controlada por el Grupo Financiero Galicia." }],
+    "macro":         [{ "familia": "brito",      "nota": "Banco Macro es una de las empresas madre del grupo de la familia Brito." }],
+    "genneia":       [{ "familia": "brito",      "nota": "Genneia es la cabeza energética del grupo de la familia Brito." }],
+    "juramento":     [{ "familia": "brito",      "nota": "Inversora Juramento es la cabeza agropecuaria del grupo de la familia Brito." }],
+    "mirgor":        [{ "familia": "caputo",     "nota": "Mirgor es hoy la cabeza del grupo de Nicolás Caputo." }],
+    "central-puerto":[{ "familia": "caputo",     "nota": "Vínculo histórico: Caputo tenía cerca del 23% de SADESA, controlante de Central Puerto; el sitio lo da como negocio del pasado." }],
+    "telecom":       [{ "familia": "clarin",     "nota": "Cablevisión Holding (Grupo Clarín) tiene el control de Telecom Argentina." }],
+    "aa2000":        [{ "familia": "eurnekian",  "nota": "Corporación América controla Aeropuertos Argentina 2000." }],
+    "cgc":           [{ "familia": "eurnekian",  "nota": "La Compañía General de Combustibles es la cabeza petrolera del grupo Eurnekian." }],
+    "aluar":         [{ "familia": "madanes",    "nota": "Aluar es la empresa principal del grupo de la familia Madanes Quintanilla (junto con Fate)." }],
+    "arcor":         [{ "familia": "pagani",     "nota": "Arcor es la cabeza del grupo de la familia Pagani." }],
+    "mastellone":    [{ "familia": "pagani",     "nota": "Arcor tiene el 47,38% de Mastellone Hermanos (23,69% directo y 23,69% vía Bagley Latinoamérica)." }],
+    "pluspetrol":    [{ "familia": "rey",        "nota": "Pluspetrol es la empresa del grupo de la familia Rey." }],
+    "tecpetrol":     [{ "familia": "rocca",      "nota": "Tecpetrol es la petrolera del Grupo Techint (San Faustin, familia Rocca)." }]
+  }
+}
