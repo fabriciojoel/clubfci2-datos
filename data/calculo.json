@@ -1,0 +1,68 @@
+{
+  "_ayuda": "Parametros de calculo de la pagina. Editar solo los valores; se publican con Publicar datos.bat (sin deploy). Si un valor es invalido se ignora y rige el default (js/config.js, que tambien explica cada parametro). Los grupos y nombres no se pueden cambiar.",
+  "sectores": {
+    "filtro": {
+      "mdMin": 0.25,
+      "tirMin": -5,
+      "tirMax": 50
+    },
+    "atipicos": {
+      "minN": 8,
+      "k": 3.5,
+      "pisoPp": 3,
+      "maxFrac": 0.1
+    },
+    "modelos": {
+      "log": 2,
+      "poli": 6,
+      "ns": 10
+    },
+    "minCurvaSector": 3
+  },
+  "soberanos": {
+    "mdRangoMin": 0.5
+  },
+  "liquidez": {
+    "fuerte": {
+      "x": 2,
+      "y": 0.25
+    },
+    "debil": {
+      "x": 1,
+      "y": 0.5
+    },
+    "escala": {
+      "xmin": 0.1,
+      "xmax": 40,
+      "ymax": 1.1
+    },
+    "capexMant": 0.4,
+    "horizontes": [
+      12,
+      24,
+      36,
+      60
+    ]
+  },
+  "escenarios": {
+    "eleccion": "2027-10-24",
+    "ballotage": "2027-11-21"
+  },
+  "puntaje": {
+    "cortes": [
+      80,
+      67,
+      55,
+      45,
+      33,
+      20
+    ]
+  },
+  "mercado": {
+    "diasTirMin": 15,
+    "spreadMax": 0.05
+  },
+  "portafolio": {
+    "pocasTenencias": 6
+  }
+}

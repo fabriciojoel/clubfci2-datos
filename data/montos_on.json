@@ -134,6 +134,18 @@
 "fecha": "2026-11-10",
 "mto_tablero": 272949631.0
 },
+"BA37D": {
+"vn": 6319816652.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "BA37D",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 PBA 12/08/2026",
+"nota": "Importe total 01/09/2026 USD 369.465.171,23 = 2,9% del capital original + 3,3125% del residual 88,94%; VN original derivado"
+},
 "BACGO": {
 "vn": 530000000.0,
 "residual": 530000000.0,
@@ -155,6 +167,42 @@
 "fuente": "ficha",
 "fecha": "2026-11-10",
 "mto_tablero": 400000000.0
+},
+"BB37D": {
+"vn": 777634375.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "BB37D",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 PBA 18/08/2026",
+"nota": "Interés 01/09/2026 USD 22.843.009,76 al 2,9375% del período sobre capital 100%; VN original derivado"
+},
+"BDC33": {
+"vn": 600000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "BDC33",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 CABA 18/11/2026",
+"nota": "V/N USD 600.000.000 (Serie 13)"
+},
+"BDC36": {
+"vn": 500000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "BDC36",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 CABA 26/10/2026",
+"nota": "V/N USD 500.000.000 (Serie 14)"
 },
 "BF39O": {
 "vn": 50000000.0,
@@ -529,6 +577,30 @@
 "symbol": "CLSIO",
 "fuente": "ficha",
 "fecha": "2026-11-10"
+},
+"CO32": {
+"vn": 725000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "CO32",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 Córdoba 18/06/2026",
+"nota": "VN USD 725.000.000"
+},
+"CO35": {
+"vn": 800000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "CO35",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 Córdoba 20/07/2026",
+"nota": "VN USD 800.000.000"
 },
 "COC4O": {
 "vn": 20000000.0,
@@ -911,6 +983,78 @@
 "symbol": "FYC1O",
 "fuente": "ficha",
 "fecha": "2026-11-10"
+},
+"GD29": {
+"vn": 2620524443.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD29",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
+},
+"GD30": {
+"vn": 13587430959.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD30",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
+},
+"GD35": {
+"vn": 20501717804.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD35",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
+},
+"GD38": {
+"vn": 11405065289.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD38",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
+},
+"GD41": {
+"vn": 10482111279.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD41",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
+},
+"GD46": {
+"vn": 2091997126.0,
+"residual": null,
+"emisor": "Gobierno Nacional",
+"isin": "",
+"vto": "",
+"symbol": "GD46",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "mercadosargentina.com.ar / riesgopais_calc.js",
+"nota": "VN original en circulación neto de recompras (js/riesgopais_calc.js, mercadosargentina.com.ar); las amortizaciones las descuenta el cronograma. Provisorio hasta bajar la ficha de BYMA con montos_on.py --sob"
 },
 "GN43O": {
 "vn": 20697951.0,
@@ -1645,6 +1789,30 @@
 "fuente": "ficha",
 "fecha": "2026-11-10"
 },
+"NDG34": {
+"vn": 500000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "NDG34",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Prensa (Río Negro, dolarhoy 07/2026)",
+"nota": "Colocación USD 500 M ley NY; verificar contra aviso de resultados"
+},
+"NDT25": {
+"vn": 377164454.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "NDT25",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 Neuquén 13/10/2026",
+"nota": "VN USD 377.164.454; cuota de amortización 29.012.650 = 7,69%"
+},
 "NPCCO": {
 "vn": 89067309.0,
 "residual": 89067309.0,
@@ -1957,6 +2125,18 @@
 "fecha": "2026-11-10",
 "mto_tablero": 450000000.0
 },
+"PMM29": {
+"vn": 590000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "PMM29",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso Mendoza 10/09/2026",
+"nota": "Emisión total USD 590 M, cuota 11/16"
+},
 "PN34O": {
 "vn": 23055471.0,
 "residual": 23055471.0,
@@ -2252,6 +2432,18 @@
 "fuente": "ficha",
 "fecha": "2026-11-10"
 },
+"SA24D": {
+"vn": 358000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "SA24D",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "argentina.gob.ar resultados_reestructuraciones_provinciales.pdf",
+"nota": "Nominal post-reestructuración ~358 M (10 cuotas semestrales); PROVISORIO, verificar"
+},
 "SBC1O": {
 "vn": 40000000.0,
 "residual": 23200000.0,
@@ -2295,6 +2487,18 @@
 "fuente": "ficha",
 "fecha": "2026-11-10"
 },
+"SFD34": {
+"vn": 800000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "SFD34",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Aviso A3 Santa Fe 04/06/2026",
+"nota": "VN USD 800.000.000, residual 100%"
+},
 "SIC1O": {
 "vn": 16935949.0,
 "residual": 16935949.0,
@@ -2315,6 +2519,18 @@
 "fuente": "ficha",
 "fecha": "2026-11-10",
 "mto_tablero": 50000000.0
+},
+"SJO35": {
+"vn": 600000000.0,
+"residual": null,
+"emisor": "",
+"isin": "",
+"vto": "",
+"symbol": "SJO35",
+"fuente": "manual",
+"fecha": "2026-11-25",
+"url": "Prensa (Forbes, iProUP 2026)",
+"nota": "Colocación USD 600 M a 1/10/2035; verificar contra aviso de resultados"
 },
 "SNABO": {
 "vn": 1128461.0,
